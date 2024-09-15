@@ -20,7 +20,7 @@ pipeline
             }
         }
 
-        stage('update with new deploy') 
+        stage('update my this part') 
         {
             steps 
             {
