@@ -12,7 +12,7 @@ pipeline
             }
         }
 
-        stage('Test') 
+        stage('update my this part') 
         {
             steps 
             {
