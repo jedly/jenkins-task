@@ -20,7 +20,7 @@ pipeline
             }
         }
 
-        stage('Deploy') 
+        stage('update with new deploy') 
         {
             steps 
             {
