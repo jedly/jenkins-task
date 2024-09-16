@@ -20,7 +20,7 @@ pipeline
             }
         }
 
-        stage('yes let us update my this part') 
+        stage('why this kolavari') 
         {
             steps 
             {
